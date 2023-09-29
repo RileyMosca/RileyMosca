@@ -6,6 +6,7 @@ I am Riley Mosca [@Riley Mosca](https://github.com/RileyMosca/RileyMosca/). I'm 
 - Low-level/ Systems level programming, utilising C and C++, i.e. multi-processing, multi-threading, network programming etc.
 - Object Oriented System Design, utilising C++, Java and Python
 - Digital System Design on FPGA's with VHDL
+- Algorithmic development, and analysis through mathematics and simulation.
 ### Currently Exploring
 - Web development (Javascript, TypeScript, CSS, HTML etc.)
 - Digital System Design with VHDL
